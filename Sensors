@@ -1,0 +1,6 @@
+SensorID,StandardID,UserId,SensorType,Status
+1,1,1,Temperature,Active
+2,2,2,Humidity,Active
+3,3,3,Pressure,Inactive
+4,4,4,CO2,Active
+5,5,5,Light,Inactive
